@@ -29,7 +29,6 @@
 <a href="https://www.hackerrank.com/vikeshdhawan024?hr_r=1" target="_blank">
 <img src=	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=HackerRank style="margin-bottom: 5px;" />
 </a>
-
 <br>
 
 
