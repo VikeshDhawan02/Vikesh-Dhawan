@@ -10,6 +10,7 @@
   </p>
 
  
+ ![](https://komarev.com/ghpvc/?username=Shivam-Ranpise&color=ff69b4)
   
  - 🌱 I’m currently learning **Pyhton and Machine Learning.**
 
