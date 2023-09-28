@@ -1,16 +1,16 @@
 # Vikesh-Dhawan
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <span style="color:yellow;">Vikesh. 😊</span></h1>
+<h1    align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <span style="color:yellow;">Vikesh. 😊</span></h1>
 
 
 
 <h2 align="center">A passionate  AI enthusiast from India.</h2>
 
    <p align="center">
-  <img src= "https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+  <img src= "https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"  width="300" height="300">
   </p>
 
  
- ![](https://komarev.com/ghpvc/?username=Shivam-Ranpise&color=ff69b4)
+ ![](https://komarev.com/ghpvc/?username=VikeshDhawan02&color=ff8c00)
   
  - 🌱 I’m currently learning **Pyhton and Machine Learning.**
 
