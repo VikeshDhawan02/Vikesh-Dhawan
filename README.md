@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **any Python Development Projects which will help me to grow my skills as a Python and ML Developer.**
 
-- 💬 Ask me about ** HTML, C, C++, Python, MySQL and Machine Learning.**
+- 💬 Ask me about ** C, C++, Python, MySQL, Machine Learning, HTML.**
 
 - 📫 How to reach me? via mail: **vikeshdhawan024@gmail.com**
 
